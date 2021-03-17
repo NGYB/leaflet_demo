@@ -7,3 +7,5 @@ To run (assuming you use python3):
 python -m http.server
 ```
 Open browser and go to url http://0.0.0.0:8000/
+
+![leaflet](leaflet.png)
